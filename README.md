@@ -8,6 +8,10 @@ This is an very simple DNS Amplificator attackker with options to fetch DNS Serv
 
 
 
+## How to Downlaod?
+
+### You can directly download it from the main page as an .zip or from the [releases](https://github.com/j0az/dns_amplificator/releases/)
+
 
 
 ## WHAT YOU NEED
